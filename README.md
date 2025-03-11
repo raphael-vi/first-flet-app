@@ -27,4 +27,4 @@ Este é um projeto de exemplo utilizando o framework **Flet** para criar um sist
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/first-flet-app.git
+   git clone https://github.com/raphael-vi/first-flet-app/
