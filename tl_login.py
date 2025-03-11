@@ -71,8 +71,8 @@ def logar(e):
         for cad in cont.carrega_bd():  
             if usuario["nome"] == cad["nome"] and usuario["senha"] == cad["senha"]:  
                 
-                cont.conta_logada = cad  # Define o usuário logado
-                cont.carregar_senhas_usuario()  # Carrega as senhas do usuário logado
+                cont.conta_logada = cad  # Preenche a variável conta_logada corretamente
+                cont.carregar_senhas_usuario(cont.conta_logada)  # Carrega as senhas do usuário logado
                 
                 altera_erro("Logado com sucesso.")
                 print("Conta logada:", cont.conta_logada)

@@ -1,0 +1,5 @@
+{'nome': 'mauricio', 'senha': 'Maumau123!!!', 'email': 'mauricioaires30@gmail.com', 'idade_ano': '2004', 'idade_mes': '10', 'idade_dia': '30', 'telefone': '91987690008', 'sexo': 'M'}
+{'nome': 'aaaaa', 'senha': '123456Mm!112', 'email': '123@a.com', 'idade_ano': '2019', 'idade_mes': '6', 'idade_dia': '7', 'telefone': '91987690008', 'sexo': 'M'}
+{'nome': 'aeae', 'senha': 'Aa123456@', 'email': 'example@email.com', 'idade_ano': '1998', 'idade_mes': '2', 'idade_dia': '6', 'telefone': '91999991991', 'sexo': 'M'}
+{'nome': 'raphael', 'senha': 'R@phael123', 'email': 'email@example.com', 'idade_ano': '1998', 'idade_mes': '2', 'idade_dia': '6', 'telefone': '99999999999', 'sexo': 'M'}
+{'nome': 'aaaa', 'senha': '12312312@dasfas!!1A1', 'email': 'rarara@mamamama.com', 'idade_ano': '2003', 'idade_mes': '3', 'idade_dia': '6', 'telefone': '91999999999', 'sexo': 'M'}
