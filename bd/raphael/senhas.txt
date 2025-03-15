@@ -1,0 +1,2 @@
+{'programa': 'HPTa', 'senha': 'a', 'tamanho': 1, 'data': '2025-03-15'}
+{'programa': 'HPT', 'senha': 'j%c', 'tamanho': 3, 'data': '2025-03-15'}
